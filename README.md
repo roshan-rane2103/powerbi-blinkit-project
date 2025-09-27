@@ -34,8 +34,6 @@ It helps to analyze sales performance, outlet types, fat content, item types, an
 
 ---
 
-## 🖼 Dashboard Preview
-![Blinkit Dashboard](your-screenshot.png)
 
 ---
 
@@ -60,6 +58,6 @@ It helps to analyze sales performance, outlet types, fat content, item types, an
 ---
 
 ## ✨ Author
-👤 *Your Name*  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](your-linkedin-link)
+👤 *Roshan Rane*  
+📧 rvrane2103.com  
+
