@@ -59,5 +59,5 @@ It helps to analyze sales performance, outlet types, fat content, item types, an
 
 ## ✨ Author
 👤 *Roshan Rane*  
-📧 rvrane2103.com  
+📧 rvrane2103@gmail.com  
 
